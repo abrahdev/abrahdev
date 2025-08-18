@@ -13,20 +13,17 @@
   
 <h2>🐍 Skills</h2>
 
-#### Currently Learning
-![Learninig](https://skillicons.dev/icons?i=react,js)
-
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,java)
+#### Lenguages
+![Frontend Technologies](https://skillicons.dev/icons?i=js,ts,python,java,html,css)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=astro,react,html,css)
+![Frontend Technologies](https://skillicons.dev/icons?i=astro,react,tailwind)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=docker,mysql)](https://skillicons.dev)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,notion,vscode,figma,vercel,cloudflare,arduino)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,notion,vscode,figma,vercel,cloudflare,arduino,proxmox)
 
 
 
