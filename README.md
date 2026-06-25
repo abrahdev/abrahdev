@@ -32,10 +32,10 @@
 
 
 ---
-[![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-5B47ED?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/A-esh)
+[![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-5B47ED?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.abrah.dev)
 
 ### Redes:
-[![Twitch](https://img.shields.io/badge/Twitch-Directos-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/abraham_esh) [![Linkedin](https://img.shields.io/badge/Linkedin-Perfil_Profesional-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/abraham-esh/) [![X](https://img.shields.io/badge/Twitter-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://twitter.com/abraham_esh) [![Tiktok](https://img.shields.io/badge/TikTok-Tutoriales%20rapidos-ff0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@abraham_esh)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Perfil_Profesional-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](http://info.abrah.dev/) [![Tiktok](https://img.shields.io/badge/TikTok-Tutoriales%20rapidos-ff0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://www.tiktok.com/@abrahamixto) [![Twitch](https://img.shields.io/badge/Twitch-Directos-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/abrahamixto).
 
 ### Comunidad:
-[![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/eh7BFDB)
+[![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://discord.abrah.dev/)
