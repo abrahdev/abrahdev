@@ -1,4 +1,4 @@
-<img src="image_0.jpg" alt="Abraham Escalona S." width="150" height="150" style="float: right; border-radius: 10%;" />
+<img src="me.jpg" alt="Abraham Escalona S." width="150" height="150" style="float: right; border-radius: 10%;" />
 
 # Abraham Escalona S.
 
@@ -62,6 +62,7 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 _Universidad de Castilla-La Mancha_
 
 - Estudiando actualmente en la ESI de Ciudad Real.
+- Matrícalua de Honor en _Fundamentos de Programación I, Ingeniería del Software I, Programación Concurrente y Tiempo Real_.
 
 **2023 | IBM Data Science Professional Certificate**
 _Coursera_
