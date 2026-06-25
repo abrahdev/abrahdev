@@ -1,9 +1,8 @@
 <h1>Hi, I'm Abraham! <br/><a href="https://github.com/a-esh">Software Developer</a>, <a href="https://www.linkedin.com/in/abraham-esh/">Student</a>
 <h2>🔭 I'm currently working on</h2>
   
-- ByMusic: An music multiplatform application, metadata fixer with recommendation algorithm, support: FLAC, WAV, MP3.
-
-- Studying React JS in [fullstackopen](https://fullstackopen.com/es/) -> [My GitHub repository](https://github.com/a-esh/fullstackopen)
+- Karter
+- Self llmwiki API
 
 <h2>🔍 About me</h2>
 
