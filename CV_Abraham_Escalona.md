@@ -20,7 +20,8 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
         <li><strong>Backend:</strong> Python, JavaScript, Java, Dart.</li>
         <li><strong>Frontend & Mobile:</strong> React, Astro, TailwindCSS, Flutter.</li>
         <li><strong>Data Science:</strong> Jupyter Notebook, SQL, Pandas, NumPy, Matplotlib, seaborn.</li>
-        <li><strong>DevOps & Infra:</strong> Proxmox, Docker, Kubernetes, Git & GitHub.</li>
+        <li><strong>DevOps & Infra:</strong> Proxmox, Docker, Git & GitHub.</li>
+        <li><strong>CI/CD:</strong> GitHub Actions.</li>
         <li><strong>Other:</strong> Arduino, Markdown, Premiere Pro.</li>
       </ul>
     </td>
@@ -28,13 +29,18 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
       <strong>Soft Skills</strong>
       <ul>
         <li><strong>Aprendizaje constante:</strong> En todo momento estoy buscando cosas nuevas que aprender y eventos tecnológicos a los que asistir, como charlas universitarias, T3chfest ...</li>
-        <li><strong>Comunicación efectiva:</strong> Tengo experiencia y me es fácil explicar ideas y conceptos técnicos; en mis redes sociales (<a href="https://tiktok.com/@abrahamixto">TikTok</a>) lo hago con buenos resultados.</li>
+        <li><strong>Comunicación efectiva:</strong> Tengo experiencia y me es fácil explicar ideas y conceptos técnicos; como expositor en La Cabina de Telefónica durante la exposición InnovaTE en Ciudad Real y en mis redes sociales (<a href="https://tiktok.com/@abrahamixto">TikTok.</a>)</li>
       </ul>
     </td>
   </tr>
 </table>
 
 ### EXPERIENCIA Y PROYECTOS
+
+**2026 Septiembre | Expositor en La Cabina de Telefónica - InnovaTE**
+
+- Participación como expositor durante los 3 días de la exposición tecnológica InnovaTE, celebrada en el antiguo Casino de Ciudad Real.
+- Mostré al público la tecnología desarrollada por Telefónica en el stand denominado "Innovación", explicando los proyectos y conceptos de forma cercana y accesible.
 
 **2026 - Actual | Desarrollador Principal - Karter (Open-Source)**
 
@@ -85,4 +91,4 @@ _UCLM_
 
 ### ENLACES
 
-[Portfolio](https://abrah.dev) | [LinkedIn](https://info.abrah.dev) | [GitHub](https://github.abrah.dev) | [Notion](https://notion.abrah.dev)
+[Porfolio](https://abrah.dev) | [LinkedIn](https://info.abrah.dev) | [GitHub](https://github.abrah.dev) | [Notion](https://notion.abrah.dev)

@@ -1,0 +1,42 @@
+name: Generar PDF del CV
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'CV_Abraham_Escalona.md'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libpango-1.0-0 libpangocairo-1.0-0
+          pip install weasyprint
+
+      - name: Generar PDF del CV
+        run: |
+          pandoc CV_Abraham_Escalona.md \
+            -s \
+            --embed-resources \
+            --pdf-engine=weasyprint \
+            --css=.github/styles/cv.css \
+            -o CV_Abraham_Escalona.pdf
+
+      - name: Commit del PDF generado
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Generar PDF del CV'
+          file_pattern: CV_Abraham_Escalona.pdf
