@@ -6,11 +6,11 @@
 
 <small>Abraham Escalona Seco de Herrera | +34 643 925 004 | abraham@abrah.dev | Porfolio: [abrah.dev](https://abrah.dev)</small>
 
-### OBJETIVO
+## OBJETIVO
 
 Estudiante de Ingeniería Informática con experiencia en Data Science y actualmente formándome en infraestructuras y desarrollo front-end/móvil. Busco seguir desarrollando mis proyectos personales open-source y trabajos freelance.
 
-### SKILLS
+## SKILLS
 
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr style="border:none;">
@@ -35,7 +35,7 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
   </tr>
 </table>
 
-### EXPERIENCIA Y PROYECTOS
+## EXPERIENCIA Y PROYECTOS
 
 **2026 Septiembre | Expositor en La Cabina de Telefónica - InnovaTE**
 
@@ -62,7 +62,7 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 - Diseño y desarrollo de sitios web personalizados utilizando Astro, React, TailwindCSS y Strapi.
 - Despliegue y optimización de proyectos en plataformas modernas como Vercel y Strapi Cloud.
 
-### EDUCACIÓN
+## EDUCACIÓN
 
 **2024 - Actual | Grado en Ingeniería Informática**
 _Universidad de Castilla-La Mancha_
@@ -77,7 +77,7 @@ _Coursera_
 - Aprendí Python y SQL, realicé visualización y análisis de datos, y creé modelos predictivos.
 - Certificaciones con honores en _Machine Learning with Python_ y _Databases and SQL for Data Science with Python_.
 
-### RECONOCIMIENTOS
+## RECONOCIMIENTOS
 
 **2022 | 1º en Fase final Interprovincial VI Concurso de Rastreadores**
 _UCLM_
@@ -89,6 +89,6 @@ _UCLM_
 
 - Aprendí a modelar piezas en 3D (Blender) y realizar impresiones 3D con resina utilizando Chitubox.
 
-### ENLACES
+## ENLACES
 
 [Porfolio](https://abrah.dev) | [LinkedIn](https://info.abrah.dev) | [GitHub](https://github.abrah.dev) | [Notion](https://notion.abrah.dev)

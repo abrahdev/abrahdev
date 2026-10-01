@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'CV_Abraham_Escalona.md'
+      - '.github/styles/**'
+      - '.github/workflows/**'
 
 permissions:
   contents: write
@@ -23,7 +25,7 @@ jobs:
       - name: Instalar dependencias
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc libpango-1.0-0 libpangocairo-1.0-0
+          sudo apt-get install -y pandoc fonts-open-sans libpango-1.0-0 libpangocairo-1.0-0
           pip install weasyprint
 
       - name: Generar PDF del CV
