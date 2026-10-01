@@ -17,12 +17,12 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px;">
       <strong>Technical Skills</strong>
       <ul>
-        <li><strong>Backend:</strong> Python, JavaScript, Java, Dart.</li>
+        <li><strong>Backend:</strong> Python, JavaScript, Java, Dart, Strapi, Google OAuth.</li>
         <li><strong>Frontend & Mobile:</strong> React, Astro, TailwindCSS, Flutter.</li>
         <li><strong>Data Science:</strong> Jupyter Notebook, SQL, Pandas, NumPy, Matplotlib, seaborn.</li>
-        <li><strong>DevOps & Infra:</strong> Proxmox, Docker, Git & GitHub.</li>
+        <li><strong>DevOps & Infra:</strong> Proxmox, Docker, VPN, NAS, RAID, Zero Trust de Cloudflare, Linux, Git & GitHub.</li>
         <li><strong>CI/CD:</strong> GitHub Actions.</li>
-        <li><strong>Other:</strong> Arduino, Markdown, Premiere Pro.</li>
+        <li><strong>Other:</strong> Arduino, Markdown, Docusaurus, Weblate, Stripe, Premiere Pro.</li>
       </ul>
     </td>
     <td style="width:50%; vertical-align:top; border:none; padding-left:20px;">
@@ -30,6 +30,7 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
       <ul>
         <li><strong>Aprendizaje constante:</strong> En todo momento estoy buscando cosas nuevas que aprender y eventos tecnológicos a los que asistir, como charlas universitarias, T3chfest ...</li>
         <li><strong>Comunicación efectiva:</strong> Tengo experiencia y me es fácil explicar ideas y conceptos técnicos; como expositor en La Cabina de Telefónica durante la exposición InnovaTE en Ciudad Real y en mis redes sociales (<a href="https://tiktok.com/@abrahamixto">TikTok.</a>)</li>
+        <li><strong>Resolución de problemas:</strong> Diagnóstico autónomo de fallos en infraestructura, IoT y flujos con LLM.</li>
       </ul>
     </td>
   </tr>
@@ -46,6 +47,8 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 
 - Desarrollo de una aplicación de mantenimiento de vehículos de código abierto utilizando Flutter y Dart.
 - Diseño de arquitectura _local-first_ e integración de telemetría con sensores OBD-II.
+- Análisis de manuales de mantenimiento y su transformación a datos JSON estructurados mediante flujos con LLM.
+- Desarrollo asistido por agentes de IA, incluyendo la depuración de flujos con LLM.
 
 **2025 | Creador de Notion con mas de 2K descargas**
 
@@ -54,8 +57,9 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 **2025 - Actual | Administrador de Home Lab & IoT**
 
 - Diseño, despliegue y mantenimiento de Proxmox VE y orquestación de microservicios mediante contenedores Docker (Dockge, Uptime Kuma) y Kubernetes.
-- Gestión de clústeres de almacenamiento, servicios multimedia y herramientas de seguridad de red como Tailscale y AdGuard Home.
+- Gestión de clústeres de almacenamiento (NAS con RAID), servicios multimedia y herramientas de seguridad de red como Tailscale, VPN, WebDAV, SMB, NFS, AdGuard Home y Zero Trust de Cloudflare.
 - Desarrollo e implementación de nodos IoT a medida utilizando hardware ESP32 y redes malladas Zigbee con MQTT y ESPHome en Home Assistant.
+- Diagnóstico y resolución de incidencias en infraestructura y nodos IoT, con monitorización (Uptime Kuma) y depuración de logs y dispositivos ESP32.
 
 **2025 | Desarrollo web para comercio local**
 
