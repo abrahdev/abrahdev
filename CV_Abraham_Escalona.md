@@ -1,4 +1,4 @@
-<img src="me.jpg" alt="Abraham Escalona S." width="150" height="150" style="float: right; border-radius: 10%;" />
+<img src="me.jpg" alt="Abraham Escalona S." width="150" height="150" style="float: right; border-radius: 10%; width: 150px; height: 150px;" />
 
 # Abraham Escalona S.
 
