@@ -28,8 +28,8 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
     <td style="width:50%; vertical-align:top; border:none; padding-left:20px;">
       <strong>Soft Skills</strong>
       <ul>
-        <li><strong>Aprendizaje constante:</strong> En todo momento estoy buscando cosas nuevas que aprender y eventos tecnológicos a los que asistir, como charlas universitarias, T3chfest ...</li>
-        <li><strong>Comunicación efectiva:</strong> Tengo experiencia y me es fácil explicar ideas y conceptos técnicos; como expositor en La Cabina de Telefónica durante la exposición InnovaTE en Ciudad Real y en mis redes sociales (<a href="https://tiktok.com/@abrahamixto">TikTok.</a>)</li>
+        <li><strong>Aprendizaje constante:</strong> En todo momento estoy buscando cosas nuevas que aprender y eventos tecnológicos a los que asistir, como charlas universitarias, T3chfest...</li>
+        <li><strong>Comunicación efectiva:</strong> Tengo experiencia y me es fácil explicar ideas y conceptos técnicos; como expositor en La Cabina de Telefónica durante la exposición InnovaTE en Ciudad Real y en mis <a href="https://tiktok.com/@abrahamixto">redes sociales</a>.</li>
         <li><strong>Resolución de problemas:</strong> Diagnóstico autónomo de fallos en infraestructura, IoT y flujos con LLM.</li>
       </ul>
     </td>
@@ -50,13 +50,13 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 - Análisis de manuales de mantenimiento y su transformación a datos JSON estructurados mediante flujos con LLM.
 - Desarrollo asistido por agentes de IA, incluyendo la depuración de flujos con LLM.
 
-**2025 | Creador de Notion con mas de 2K descargas**
+**2025 | Diseñador de plantillas en Notion Marketplace con más de 2K descargas**
 
 - He diseñado y publicado plantillas originales para el Marketplace de Notion. Utilicé técnicas de web scraping para analizar datos para crear mis plantillas, lo que me permitió optimizar mis diseños y posicionarlos mejor.
 
 **2025 - Actual | Administrador de Home Lab & IoT**
 
-- Diseño, despliegue y mantenimiento de Proxmox VE y orquestación de microservicios mediante contenedores Docker (Dockge, Uptime Kuma) y Kubernetes.
+- Diseño, despliegue y mantenimiento de Proxmox VE y orquestación de microservicios mediante contenedores Docker (Dockge, Uptime Kuma), LXC y VMs.
 - Gestión de clústeres de almacenamiento (NAS con RAID), servicios multimedia y herramientas de seguridad de red como Tailscale, VPN, WebDAV, SMB, NFS, AdGuard Home y Zero Trust de Cloudflare.
 - Desarrollo e implementación de nodos IoT a medida utilizando hardware ESP32 y redes malladas Zigbee con MQTT y ESPHome en Home Assistant.
 - Diagnóstico y resolución de incidencias en infraestructura y nodos IoT, con monitorización (Uptime Kuma) y depuración de logs y dispositivos ESP32.
@@ -72,7 +72,7 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 _Universidad de Castilla-La Mancha_
 
 - Estudiando actualmente en la ESI de Ciudad Real.
-- Matrícalua de Honor en _Fundamentos de Programación I, Ingeniería del Software I, Programación Concurrente y Tiempo Real_.
+- Matrícula de Honor en _Fundamentos de Programación I, Ingeniería del Software I, Programación Concurrente y Tiempo Real_.
 
 **2023 | IBM Data Science Professional Certificate**
 _Coursera_
