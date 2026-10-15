@@ -2,7 +2,6 @@
 <h2>🔭 I'm currently working on</h2>
   
 - Karter
-- Self llmwiki API
 
 <h2>🔍 About me</h2>
 
