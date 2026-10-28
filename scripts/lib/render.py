@@ -183,25 +183,17 @@ def cv_group_blocks(content: Content):
             end = None
         start_parsed = parse_date(start)
         sort_key = (start_parsed[0], start_parsed[1] or 0) if start_parsed else (0, 0)
-        bodies = [as_bullet(e.body) for e in members if e.body]
-        extra = [e.get("cv_extra") for e in members if e.get("cv_extra")]
+        body_parts = [as_bullet(e.body) for e in members if e.body]
         ongoing = any(e.get("current") for e in members)
         summary = next(
             (e.get("cv_group_summary") for e in members if e.get("cv_group_summary")),
             None,
         )
-        block_body = (
-            summary.strip()
-            if summary
-            else "\n".join(bodies + [e.strip() for e in extra])
-        )
+        block_body = summary.strip() if summary else "\n".join(body_parts)
         blocks.append(
             (
                 sort_key,
-                '<div class="cv-group">\n\n'
-                f"**{cv_period(start, end, ongoing)} | {name}**\n\n"
-                f"{block_body}\n\n"
-                "</div>",
+                f"**{cv_period(start, end, ongoing)} | {name}**\n\n{block_body}",
             )
         )
         grouped_ids.update(id(e) for e in members)

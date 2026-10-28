@@ -46,13 +46,10 @@ ALLOWED_KEYS = {
     "demo",
     "image",
     "tags",
-    "order",
-    "featured",
     "cv",
     "portfolio",
     "draft",
     "cv_group",
-    "cv_extra",
     "cv_group_summary",
     "current",
 }
@@ -380,7 +377,7 @@ def load_entries(errors: list) -> list:
                 if end_key < start_key:
                     errors.append(f"{where}: 'end' es anterior a 'start'")
 
-            for key in ("cv", "portfolio", "featured", "draft", "current"):
+            for key in ("cv", "portfolio", "draft", "current"):
                 if key in data and not isinstance(data[key], bool):
                     errors.append(f"{where}: '{key}' debe ser booleano")
 
@@ -393,9 +390,6 @@ def load_entries(errors: list) -> list:
                 value = data.get(key)
                 if value and not str(value).startswith(("http://", "https://")):
                     errors.append(f"{where}: '{key}' debe ser una URL http(s)")
-
-            if "order" in data and not isinstance(data["order"], (int, float)):
-                errors.append(f"{where}: 'order' debe ser un número")
 
             entries.append(Entry(path=path, type=entry_type, data=data, body=body))
 

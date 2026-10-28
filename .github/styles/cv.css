@@ -57,6 +57,7 @@ ul {
 
 li {
   margin: 1.5pt 0;
+  break-inside: avoid;
 }
 
 a {
@@ -74,8 +75,4 @@ table {
 
 td {
   vertical-align: top;
-}
-
-.cv-group {
-  break-inside: avoid;
 }

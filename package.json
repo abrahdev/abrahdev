@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "validate": "python3 scripts/validate.py",
-    "build:profile": "python3 scripts/build.py"
+    "build:profile": "python3 scripts/build.py",
+    "cv:pdf": "pandoc CV_Abraham_Escalona.md -s --embed-resources --pdf-engine=weasyprint --css=.github/styles/cv.css -o CV_Abraham_Escalona.pdf",
+    "build": "pnpm validate && python3 scripts/build.py && pnpm cv:pdf"
   }
 }

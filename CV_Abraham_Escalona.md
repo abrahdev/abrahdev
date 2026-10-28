@@ -51,15 +51,11 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 - Análisis de manuales de mantenimiento y su transformación a datos JSON estructurados mediante flujos con LLM.
 - Desarrollo asistido por agentes de IA, incluyendo la depuración de flujos con LLM.
 
-<div class="cv-group">
-
 **2025 Mayo - Actual | Administrador de Home Lab & IoT**
 
 - Diseño y mantenimiento de un Home Lab sobre Proxmox VE con contenedores LXC, máquinas virtuales y microservicios en Docker y Kubernetes.
 - Gestión de almacenamiento NAS con RAID, servicios multimedia y seguridad de red: Tailscale, VPN, WebDAV, SMB, NFS, AdGuard Home y Zero Trust de Cloudflare.
 - Nodos IoT con ESP32, ESPHome, MQTT y Zigbee integrados en Home Assistant, con monitorización (Uptime Kuma) y diagnóstico de incidencias.
-
-</div>
 
 **2025 | José Carnicería**
 
