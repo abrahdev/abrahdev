@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "d4e3664",
+  "profile": {
+    "name": "Abraham Escalona Seco de Herrera",
+    "displayName": "Abraham Escalona S.",
+    "handle": "abrah",
+    "headline": "Software Developer, Student",
+    "email": "abraham@abrah.dev",
+    "avatar": "me.jpg",
+    "links": {
+      "portfolio": "https://abrah.dev",
+      "github": "https://github.com/abrahdev",
+      "linkedin": "https://info.abrah.dev",
+      "notion": "https://notion.abrah.dev",
+      "tiktok": "https://www.tiktok.com/@abrahamixto",
+      "twitch": "https://twitch.com/abrahamixto",
+      "discord": "http://discord.abrah.dev/"
+    },
+    "about": {
+      "cv": "Estudiante de Ingeniería Informática con experiencia en Data Science y actualmente formándome en infraestructuras y desarrollo front-end/móvil. Busco seguir desarrollando mis proyectos personales open-source y trabajos freelance.",
+      "portfolio": "Soy estudiante de Ingeniería Informática en España. Continuamente trabajando en proyectos personales, contribuciones a la comunidad Open Source y en el crecimiento continuo como desarrollador.",
+      "readme": "- Soy un estudiante dedicado a la tecnología actualmente estudiando en la Escuela Superior de Informática ESI - UCLM 🎓\n\n- Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquier otra inquietud, mi perfil personal es [LinkedIn](https://info.abrah.dev). Estoy abierto a nuevas oportunidades, proyectos conjuntos y, por supuesto, a aprender de la vasta comunidad de GitHub."
+    },
+    "softSkills": [
+      {
+        "title": "Aprendizaje constante",
+        "text": "En todo momento estoy buscando cosas nuevas que aprender y eventos tecnológicos a los que asistir, como charlas universitarias, T3chfest..."
+      },
+      {
+        "title": "Comunicación efectiva",
+        "text": "Tengo experiencia y me es fácil explicar ideas y conceptos técnicos; como expositor en La Cabina de Telefónica durante la exposición InnovaTE en Ciudad Real y en mis [redes sociales](https://tiktok.com/@abrahamixto)."
+      },
+      {
+        "title": "Resolución de problemas",
+        "text": "Diagnóstico autónomo de fallos en infraestructura, IoT y flujos con LLM."
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": "backend",
+      "label": "Backend",
+      "items": [
+        {
+          "name": "Python",
+          "icon": "python",
+          "skillicon": "python"
+        },
+        {
+          "name": "JavaScript",
+          "skillicon": "js"
+        },
+        {
+          "name": "TypeScript",
+          "skillicon": "ts"
+        },
+        {
+          "name": "Java",
+          "skillicon": "java"
+        },
+        {
+          "name": "Dart",
+          "icon": "dart"
+        },
+        {
+          "name": "Strapi",
+          "icon": "strapi"
+        },
+        {
+          "name": "Google OAuth"
+        }
+      ]
+    },
+    {
+      "id": "frontend",
+      "label": "Frontend & Mobile",
+      "items": [
+        {
+          "name": "React",
+          "icon": "react",
+          "skillicon": "react"
+        },
+        {
+          "name": "Astro",
+          "icon": "astro",
+          "skillicon": "astro"
+        },
+        {
+          "name": "TailwindCSS",
+          "icon": "tailwind",
+          "skillicon": "tailwind"
+        },
+        {
+          "name": "Flutter",
+          "icon": "flutter"
+        },
+        {
+          "name": "HTML",
+          "skillicon": "html"
+        },
+        {
+          "name": "CSS",
+          "skillicon": "css"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "label": "Data Science",
+      "items": [
+        {
+          "name": "Jupyter Notebook"
+        },
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "Pandas"
+        },
+        {
+          "name": "NumPy"
+        },
+        {
+          "name": "Matplotlib"
+        },
+        {
+          "name": "Seaborn"
+        }
+      ]
+    },
+    {
+      "id": "infra",
+      "label": "DevOps & Infra",
+      "items": [
+        {
+          "name": "Proxmox",
+          "skillicon": "https://go-skill-icons.vercel.app/api/icons?i=proxmox"
+        },
+        {
+          "name": "Docker",
+          "icon": "docker",
+          "skillicon": "docker"
+        },
+        {
+          "name": "VPN"
+        },
+        {
+          "name": "NAS"
+        },
+        {
+          "name": "RAID"
+        },
+        {
+          "name": "Cloudflare Zero Trust",
+          "skillicon": "cloudflare"
+        },
+        {
+          "name": "Linux"
+        },
+        {
+          "name": "Git",
+          "skillicon": "git"
+        },
+        {
+          "name": "GitHub",
+          "skillicon": "github"
+        },
+        {
+          "name": "Vercel",
+          "skillicon": "vercel"
+        }
+      ]
+    },
+    {
+      "id": "cicd",
+      "label": "CI/CD",
+      "items": [
+        {
+          "name": "GitHub Actions"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Otros",
+      "items": [
+        {
+          "name": "Arduino",
+          "skillicon": "arduino"
+        },
+        {
+          "name": "Markdown",
+          "skillicon": "markdown"
+        },
+        {
+          "name": "Notion",
+          "icon": "notion",
+          "skillicon": "notion"
+        },
+        {
+          "name": "VSCode",
+          "skillicon": "vscode"
+        },
+        {
+          "name": "Figma",
+          "skillicon": "figma"
+        },
+        {
+          "name": "Docusaurus"
+        },
+        {
+          "name": "Weblate"
+        },
+        {
+          "name": "Stripe"
+        },
+        {
+          "name": "Premiere Pro"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "type": "job",
+      "slug": "2026-09-innovate",
+      "title": "Expositor en La Cabina de Telefónica",
+      "date": "Septiembre 2026",
+      "start": "2026-09",
+      "end": "2026-09",
+      "current": false,
+      "body": "- Participación como expositor durante los 3 días de la exposición tecnológica InnovaTE, celebrada en el antiguo Casino de Ciudad Real.\n- Mostré al público la tecnología desarrollada por Telefónica en el stand denominado \"Innovación\", explicando los proyectos y conceptos de forma cercana y accesible.",
+      "bodyHtml": "<ul><li>Participación como expositor durante los 3 días de la exposición tecnológica InnovaTE, celebrada en el antiguo Casino de Ciudad Real.</li><li>Mostré al público la tecnología desarrollada por Telefónica en el stand denominado \"Innovación\", explicando los proyectos y conceptos de forma cercana y accesible.</li></ul>",
+      "org": "InnovaTE"
+    },
+    {
+      "type": "job",
+      "slug": "2026-03-esp32",
+      "title": "Sistemas Embebidos e IoT (ESP32)",
+      "date": "Marzo 2026 - Actualidad",
+      "start": "2026-03",
+      "end": null,
+      "current": true,
+      "body": "Desarrollo y despliegue de nodos IoT basados en microcontroladores ESP32. Implementación de sensores y actuadores personalizados integrados en Home Assistant mediante ESPHome y protocolos MQTT, automatizando el control ambiental y de iluminación mediante hardware open-source.",
+      "bodyHtml": "<p>Desarrollo y despliegue de nodos IoT basados en microcontroladores ESP32. Implementación de sensores y actuadores personalizados integrados en Home Assistant mediante ESPHome y protocolos MQTT, automatizando el control ambiental y de iluminación mediante hardware open-source.</p>",
+      "org": "Smart Home Project",
+      "cvGroup": "Administrador de Home Lab & IoT"
+    },
+    {
+      "type": "job",
+      "slug": "2025-06-home-assistant",
+      "title": "Especialista en Domótica (Home Assistant)",
+      "date": "Junio 2025 - Actualidad",
+      "start": "2025-06",
+      "end": null,
+      "current": true,
+      "body": "Diseño de una red inteligente basada en Home Assistant (HAOS). Despliegue de una red mallada Zigbee para el control de sensores y actuadores, integrando automatizaciones avanzadas y gestión energética local sin dependencia de la nube.",
+      "bodyHtml": "<p>Diseño de una red inteligente basada en Home Assistant (HAOS). Despliegue de una red mallada Zigbee para el control de sensores y actuadores, integrando automatizaciones avanzadas y gestión energética local sin dependencia de la nube.</p>",
+      "org": "Smart Home Project",
+      "cvGroup": "Administrador de Home Lab & IoT"
+    },
+    {
+      "type": "job",
+      "slug": "2025-06-kubernetes",
+      "title": "Orquestación con Kubernetes y Docker",
+      "date": "Junio 2025 - Actualidad",
+      "start": "2025-06",
+      "end": null,
+      "current": true,
+      "body": "Implementación de un ecosistema de microservicios utilizando Docker, Dockge y Kubernetes. Administración de stacks complejos incluyendo Immich para gestión de fotos, Nextcloud para almacenamiento en la nube y servidores de juegos (Minecraft), optimizando el uso de recursos y la alta disponibilidad.",
+      "bodyHtml": "<p>Implementación de un ecosistema de microservicios utilizando Docker, Dockge y Kubernetes. Administración de stacks complejos incluyendo Immich para gestión de fotos, Nextcloud para almacenamiento en la nube y servidores de juegos (Minecraft), optimizando el uso de recursos y la alta disponibilidad.</p>",
+      "org": "Self-Hosting",
+      "cvGroup": "Administrador de Home Lab & IoT"
+    },
+    {
+      "type": "job",
+      "slug": "2025-05-home-lab",
+      "title": "Administrador de Home Lab (Proxmox VE)",
+      "date": "Mayo 2025 - Actualidad",
+      "start": "2025-05",
+      "end": null,
+      "current": true,
+      "body": "Despliegue y mantenimiento de un cluster de virtualización basado en Proxmox. Gestión de nodos PVE, contenedores LXC y máquinas virtuales (QEMU) para servicios críticos como OpenMediaVault, Tailscale para redes VPN seguras y AdGuard Home para filtrado DNS a nivel de red.",
+      "bodyHtml": "<p>Despliegue y mantenimiento de un cluster de virtualización basado en Proxmox. Gestión de nodos PVE, contenedores LXC y máquinas virtuales (QEMU) para servicios críticos como OpenMediaVault, Tailscale para redes VPN seguras y AdGuard Home para filtrado DNS a nivel de red.</p>",
+      "org": "Infraestructura Personal",
+      "cvGroup": "Administrador de Home Lab & IoT"
+    },
+    {
+      "type": "education",
+      "slug": "2024-09-uclm",
+      "title": "Grado en Ingeniería Informática",
+      "date": "Septiembre 2024 - Actualidad",
+      "start": "2024-09",
+      "end": null,
+      "current": true,
+      "body": "- Estudiando actualmente en la ESI de Ciudad Real.\n- Matrícula de Honor en _Fundamentos de Programación I, Ingeniería del Software I, Programación Concurrente y Tiempo Real_.",
+      "bodyHtml": "<ul><li>Estudiando actualmente en la ESI de Ciudad Real.</li><li>Matrícula de Honor en <em>Fundamentos de Programación I, Ingeniería del Software I, Programación Concurrente y Tiempo Real</em>.</li></ul>",
+      "org": "Universidad de Castilla-La Mancha",
+      "link": "https://info.abrah.dev"
+    },
+    {
+      "type": "education",
+      "slug": "2023-07-ibm",
+      "title": "IBM Data Science Professional Certificate",
+      "date": "Julio 2023",
+      "start": "2023-07",
+      "end": null,
+      "current": false,
+      "body": "- Durante este certificado desarrollé y perfeccioné habilidades prácticas en Ciencia de Datos y Machine Learning.\n- Aprendí Python y SQL, realicé visualización y análisis de datos, y creé modelos predictivos.\n- Certificaciones con honores en _Machine Learning with Python_ y _Databases and SQL for Data Science with Python_.",
+      "bodyHtml": "<ul><li>Durante este certificado desarrollé y perfeccioné habilidades prácticas en Ciencia de Datos y Machine Learning.</li><li>Aprendí Python y SQL, realicé visualización y análisis de datos, y creé modelos predictivos.</li><li>Certificaciones con honores en <em>Machine Learning with Python</em> y <em>Databases and SQL for Data Science with Python</em>.</li></ul>",
+      "org": "Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/professional-cert/SWTVXWEBXUQS"
+    },
+    {
+      "type": "award",
+      "slug": "2023-automatizacion",
+      "title": "2º en III Competición Intercampus Automatización",
+      "date": "2023",
+      "start": "2023",
+      "end": null,
+      "current": false,
+      "body": "- Aprendí a modelar piezas en 3D (Blender) y realizar impresiones 3D con resina utilizando Chitubox.",
+      "bodyHtml": "<ul><li>Aprendí a modelar piezas en 3D (Blender) y realizar impresiones 3D con resina utilizando Chitubox.</li></ul>",
+      "summary": "Reconocimiento concedido por la Universidad de Castilla-La Mancha por sobresalir en los estudios como 2º finalista en la III Competición Intercampus Automatización.",
+      "org": "UCLM",
+      "link": "https://info.abrah.dev"
+    },
+    {
+      "type": "award",
+      "slug": "2022-07-rastreadores",
+      "title": "1º en Fase final Interprovincial VI Concurso de Rastreadores",
+      "date": "Julio 2022",
+      "start": "2022-07",
+      "end": null,
+      "current": false,
+      "body": "- Desarrollo de habilidades de trabajo en equipo y conocimientos aplicados en electrónica con Arduino.",
+      "bodyHtml": "<ul><li>Desarrollo de habilidades de trabajo en equipo y conocimientos aplicados en electrónica con Arduino.</li></ul>",
+      "summary": "Reconocimiento otorgado por la Universidad de Castilla-La Mancha por destacarse en los estudios como ganador de la Fase final Interprovincial VI Concurso de Rastreadores.",
+      "org": "UCLM",
+      "link": "https://info.abrah.dev"
+    },
+    {
+      "type": "job",
+      "slug": "2021-07-creador-contenido",
+      "title": "Creador de Contenido",
+      "date": "Julio 2021 - Junio 2022",
+      "start": "2021-07",
+      "end": "2022-06",
+      "current": false,
+      "body": "Creación de comunidad y creación de contenido estratégico sobre videojuegos. Alcancé una audiencia de más de 30,000 seguidores y medio millón de 'likes', desarrollando habilidades en comunicación digital, análisis de métricas de usuario y tendencias tecnológicas.",
+      "bodyHtml": "<p>Creación de comunidad y creación de contenido estratégico sobre videojuegos. Alcancé una audiencia de más de 30,000 seguidores y medio millón de 'likes', desarrollando habilidades en comunicación digital, análisis de métricas de usuario y tendencias tecnológicas.</p>",
+      "org": "Abrahamixto (Gaming)",
+      "link": "https://www.tiktok.com/@abrahamixto"
+    }
+  ],
+  "projects": [
+    {
+      "type": "project",
+      "slug": "karter",
+      "title": "Karter",
+      "date": "2026 - Actualidad",
+      "start": "2026",
+      "end": null,
+      "current": true,
+      "body": "- Desarrollo de una aplicación de mantenimiento de vehículos de código abierto utilizando Flutter y Dart.\n- Diseño de arquitectura _local-first_ e integración de telemetría con sensores OBD-II.\n- Análisis de manuales de mantenimiento y su transformación a datos JSON estructurados mediante flujos con LLM.\n- Desarrollo asistido por agentes de IA, incluyendo la depuración de flujos con LLM.",
+      "bodyHtml": "<ul><li>Desarrollo de una aplicación de mantenimiento de vehículos de código abierto utilizando Flutter y Dart.</li><li>Diseño de arquitectura <em>local-first</em> e integración de telemetría con sensores OBD-II.</li><li>Análisis de manuales de mantenimiento y su transformación a datos JSON estructurados mediante flujos con LLM.</li><li>Desarrollo asistido por agentes de IA, incluyendo la depuración de flujos con LLM.</li></ul>",
+      "summary": "Aplicación open-source de mantenimiento de vehículos con arquitectura local-first y telemetría OBD-II.",
+      "role": "Desarrollador Principal",
+      "org": "Open-Source",
+      "repo": "https://github.com/abrahdev/karter",
+      "demo": "https://abrahdev.github.io/karter/",
+      "image": "karter.png",
+      "tags": [
+        "Dart",
+        "Docker",
+        "Flutter"
+      ]
+    },
+    {
+      "type": "project",
+      "slug": "jose-carniceria",
+      "title": "José Carnicería",
+      "date": "2025",
+      "start": "2025",
+      "end": null,
+      "current": false,
+      "body": "- Diseño y desarrollo de sitios web personalizados utilizando Astro, React, TailwindCSS y Strapi.\n- Despliegue y optimización de proyectos en plataformas modernas como Vercel y Strapi Cloud.",
+      "bodyHtml": "<ul><li>Diseño y desarrollo de sitios web personalizados utilizando Astro, React, TailwindCSS y Strapi.</li><li>Despliegue y optimización de proyectos en plataformas modernas como Vercel y Strapi Cloud.</li></ul>",
+      "summary": "Landing page moderna para un negocio cárnico local, optimizada para la conversión y la visualización de productos. Implementé un diseño intuitivo que destaca la calidad del catálogo y facilita el contacto directo con el cliente.",
+      "demo": "https://jose-carniceria.vercel.app/",
+      "image": "jose-carniceria.png",
+      "tags": [
+        "Astro",
+        "React",
+        "TailwindCSS",
+        "Strapi"
+      ]
+    },
+    {
+      "type": "project",
+      "slug": "notion-marketplace",
+      "title": "Diseñador de plantillas en Notion Marketplace con más de 2K descargas",
+      "date": "2025",
+      "start": "2025",
+      "end": null,
+      "current": false,
+      "body": "He diseñado y publicado plantillas originales para el Marketplace de Notion. Utilicé técnicas de web scraping para analizar datos para crear mis plantillas, lo que me permitió optimizar mis diseños y posicionarlos mejor.",
+      "bodyHtml": "<p>He diseñado y publicado plantillas originales para el Marketplace de Notion. Utilicé técnicas de web scraping para analizar datos para crear mis plantillas, lo que me permitió optimizar mis diseños y posicionarlos mejor.</p>",
+      "card_title": "Creador de Notion Marketplace +2K Descargas",
+      "link": "https://notion.abrah.dev",
+      "image": "notion-marketplace.webp",
+      "tags": [
+        "Notion",
+        "Python"
+      ]
+    }
+  ]
+}

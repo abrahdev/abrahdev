@@ -1,0 +1,68 @@
+# El orden de los grupos y de los items es el orden en que se muestran.
+# icon      = clave del catálogo de iconos SVG de abrah.dev
+# skillicon = id de skillicons.dev para los badges del README
+# Si se omiten, se usa el slug del nombre.
+
+groups:
+  - id: backend
+    label: Backend
+    items:
+      - { name: Python, icon: python, skillicon: python }
+      - { name: JavaScript, skillicon: js }
+      - { name: TypeScript, skillicon: ts }
+      - { name: Java, skillicon: java }
+      - { name: Dart, icon: dart }
+      - { name: Strapi, icon: strapi }
+      - Google OAuth
+
+  - id: frontend
+    label: Frontend & Mobile
+    items:
+      - { name: React, icon: react, skillicon: react }
+      - { name: Astro, icon: astro, skillicon: astro }
+      - { name: TailwindCSS, icon: tailwind, skillicon: tailwind }
+      - { name: Flutter, icon: flutter }
+      - { name: HTML, skillicon: html }
+      - { name: CSS, skillicon: css }
+
+  - id: data
+    label: Data Science
+    items:
+      - Jupyter Notebook
+      - SQL
+      - Pandas
+      - NumPy
+      - Matplotlib
+      - Seaborn
+
+  - id: infra
+    label: DevOps & Infra
+    items:
+      - { name: Proxmox, skillicon: "https://go-skill-icons.vercel.app/api/icons?i=proxmox" }
+      - { name: Docker, icon: docker, skillicon: docker }
+      - VPN
+      - NAS
+      - RAID
+      - { name: Cloudflare Zero Trust, skillicon: cloudflare }
+      - Linux
+      - { name: Git, skillicon: git }
+      - { name: GitHub, skillicon: github }
+      - { name: Vercel, skillicon: vercel }
+
+  - id: cicd
+    label: CI/CD
+    items:
+      - GitHub Actions
+
+  - id: other
+    label: Otros
+    items:
+      - { name: Arduino, skillicon: arduino }
+      - { name: Markdown, skillicon: markdown }
+      - { name: Notion, icon: notion, skillicon: notion }
+      - { name: VSCode, skillicon: vscode }
+      - { name: Figma, skillicon: figma }
+      - Docusaurus
+      - Weblate
+      - Stripe
+      - Premiere Pro

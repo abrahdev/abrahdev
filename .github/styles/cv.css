@@ -75,3 +75,7 @@ table {
 td {
   vertical-align: top;
 }
+
+.cv-group {
+  break-inside: avoid;
+}

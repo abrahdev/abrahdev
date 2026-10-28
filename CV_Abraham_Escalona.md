@@ -1,8 +1,9 @@
+<!-- Generado desde content/ por scripts/build.py. No editar a mano. -->
 <img src="me.jpg" alt="Abraham Escalona S." width="150" height="150" style="float: right; border-radius: 10%; width: 150px; height: 150px;" />
 
 # Abraham Escalona S.
 
-**Estudiante de Ingeniería Informática y Desarrollador**
+**Software Developer, Student**
 
 <small>Abraham Escalona Seco de Herrera | +34 643 925 004 | abraham@abrah.dev | Porfolio: [abrah.dev](https://abrah.dev)</small>
 
@@ -17,12 +18,12 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
     <td style="width:50%; vertical-align:top; border:none; padding-right:20px;">
       <strong>Technical Skills</strong>
       <ul>
-        <li><strong>Backend:</strong> Python, JavaScript, Java, Dart, Strapi, Google OAuth.</li>
-        <li><strong>Frontend & Mobile:</strong> React, Astro, TailwindCSS, Flutter.</li>
-        <li><strong>Data Science:</strong> Jupyter Notebook, SQL, Pandas, NumPy, Matplotlib, seaborn.</li>
-        <li><strong>DevOps & Infra:</strong> Proxmox, Docker, VPN, NAS, RAID, Zero Trust de Cloudflare, Linux, Git & GitHub.</li>
+        <li><strong>Backend:</strong> Python, JavaScript, TypeScript, Java, Dart, Strapi, Google OAuth.</li>
+        <li><strong>Frontend &amp; Mobile:</strong> React, Astro, TailwindCSS, Flutter, HTML, CSS.</li>
+        <li><strong>Data Science:</strong> Jupyter Notebook, SQL, Pandas, NumPy, Matplotlib, Seaborn.</li>
+        <li><strong>DevOps &amp; Infra:</strong> Proxmox, Docker, VPN, NAS, RAID, Cloudflare Zero Trust, Linux, Git, GitHub, Vercel.</li>
         <li><strong>CI/CD:</strong> GitHub Actions.</li>
-        <li><strong>Other:</strong> Arduino, Markdown, Docusaurus, Weblate, Stripe, Premiere Pro.</li>
+        <li><strong>Otros:</strong> Arduino, Markdown, Notion, VSCode, Figma, Docusaurus, Weblate, Stripe, Premiere Pro.</li>
       </ul>
     </td>
     <td style="width:50%; vertical-align:top; border:none; padding-left:20px;">
@@ -50,31 +51,34 @@ Estudiante de Ingeniería Informática con experiencia en Data Science y actualm
 - Análisis de manuales de mantenimiento y su transformación a datos JSON estructurados mediante flujos con LLM.
 - Desarrollo asistido por agentes de IA, incluyendo la depuración de flujos con LLM.
 
-**2025 | Diseñador de plantillas en Notion Marketplace con más de 2K descargas**
+<div class="cv-group">
 
-- He diseñado y publicado plantillas originales para el Marketplace de Notion. Utilicé técnicas de web scraping para analizar datos para crear mis plantillas, lo que me permitió optimizar mis diseños y posicionarlos mejor.
+**2025 Mayo - Actual | Administrador de Home Lab & IoT**
 
-**2025 - Actual | Administrador de Home Lab & IoT**
+- Diseño y mantenimiento de un Home Lab sobre Proxmox VE con contenedores LXC, máquinas virtuales y microservicios en Docker y Kubernetes.
+- Gestión de almacenamiento NAS con RAID, servicios multimedia y seguridad de red: Tailscale, VPN, WebDAV, SMB, NFS, AdGuard Home y Zero Trust de Cloudflare.
+- Nodos IoT con ESP32, ESPHome, MQTT y Zigbee integrados en Home Assistant, con monitorización (Uptime Kuma) y diagnóstico de incidencias.
 
-- Diseño, despliegue y mantenimiento de Proxmox VE y orquestación de microservicios mediante contenedores Docker (Dockge, Uptime Kuma), LXC y VMs.
-- Gestión de clústeres de almacenamiento (NAS con RAID), servicios multimedia y herramientas de seguridad de red como Tailscale, VPN, WebDAV, SMB, NFS, AdGuard Home y Zero Trust de Cloudflare.
-- Desarrollo e implementación de nodos IoT a medida utilizando hardware ESP32 y redes malladas Zigbee con MQTT y ESPHome en Home Assistant.
-- Diagnóstico y resolución de incidencias en infraestructura y nodos IoT, con monitorización (Uptime Kuma) y depuración de logs y dispositivos ESP32.
+</div>
 
-**2025 | Desarrollo web para comercio local**
+**2025 | José Carnicería**
 
 - Diseño y desarrollo de sitios web personalizados utilizando Astro, React, TailwindCSS y Strapi.
 - Despliegue y optimización de proyectos en plataformas modernas como Vercel y Strapi Cloud.
 
+**2025 | Diseñador de plantillas en Notion Marketplace con más de 2K descargas**
+
+He diseñado y publicado plantillas originales para el Marketplace de Notion. Utilicé técnicas de web scraping para analizar datos para crear mis plantillas, lo que me permitió optimizar mis diseños y posicionarlos mejor.
+
 ## EDUCACIÓN
 
-**2024 - Actual | Grado en Ingeniería Informática**
+**2024 Septiembre - Actual | Grado en Ingeniería Informática**
 _Universidad de Castilla-La Mancha_
 
 - Estudiando actualmente en la ESI de Ciudad Real.
 - Matrícula de Honor en _Fundamentos de Programación I, Ingeniería del Software I, Programación Concurrente y Tiempo Real_.
 
-**2023 | IBM Data Science Professional Certificate**
+**2023 Julio | IBM Data Science Professional Certificate**
 _Coursera_
 
 - Durante este certificado desarrollé y perfeccioné habilidades prácticas en Ciencia de Datos y Machine Learning.
@@ -83,16 +87,16 @@ _Coursera_
 
 ## RECONOCIMIENTOS
 
-**2022 | 1º en Fase final Interprovincial VI Concurso de Rastreadores**
-_UCLM_
-
-- Desarrollo de habilidades de trabajo en equipo y conocimientos aplicados en electrónica con Arduino.
-
 **2023 | 2º en III Competición Intercampus Automatización**
 _UCLM_
 
 - Aprendí a modelar piezas en 3D (Blender) y realizar impresiones 3D con resina utilizando Chitubox.
 
+**2022 Julio | 1º en Fase final Interprovincial VI Concurso de Rastreadores**
+_UCLM_
+
+- Desarrollo de habilidades de trabajo en equipo y conocimientos aplicados en electrónica con Arduino.
+
 ## ENLACES
 
-[Porfolio](https://abrah.dev) | [LinkedIn](https://info.abrah.dev) | [GitHub](https://github.abrah.dev) | [Notion](https://notion.abrah.dev)
+[Porfolio](https://abrah.dev) | [LinkedIn](https://info.abrah.dev) | [GitHub](https://github.com/abrahdev) | [Notion](https://notion.abrah.dev)

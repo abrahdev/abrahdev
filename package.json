@@ -1,0 +1,9 @@
+{
+  "name": "abrahdev-content",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "validate": "python3 scripts/validate.py",
+    "build:profile": "python3 scripts/build.py"
+  }
+}
