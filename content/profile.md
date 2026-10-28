@@ -6,7 +6,7 @@ headline: Software Developer, Student
 email: abraham@abrah.dev
 # Solo para el CV. No se publica en profile.json.
 phone: "+34 643 925 004"
-avatar: me.jpg
+avatar: assets/me.jpg
 links:
   portfolio: https://abrah.dev
   github: https://github.com/abrahdev

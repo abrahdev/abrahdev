@@ -27,7 +27,7 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-5B47ED?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/abrahdev)
+[![CV](https://img.shields.io/badge/CV-Descargar-2EA44F?style=for-the-badge&labelColor=101010)](https://raw.githubusercontent.com/abrahdev/abrahdev/main/CV_Abraham_Escalona.pdf) [![Portfolio](https://img.shields.io/badge/Portfolio-abrah.dev-5B47ED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://abrah.dev) [![GitHub](https://img.shields.io/badge/GitHub-Mi_perfil-5B47ED?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/abrahdev)
 
 ### Redes:
 

@@ -1,5 +1,5 @@
 <!-- Generado desde content/ por scripts/build.py. No editar a mano. -->
-<img src="me.jpg" alt="Abraham Escalona S." width="150" height="150" style="float: right; border-radius: 10%; width: 150px; height: 150px;" />
+<img src="assets/me.jpg" alt="Abraham Escalona S." width="150" height="150" style="float: right; border-radius: 10%; width: 150px; height: 150px;" />
 
 # Abraham Escalona S.
 

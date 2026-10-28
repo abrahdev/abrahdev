@@ -112,6 +112,7 @@ Solo `cv_group_summary` afecta al CV; `profile.json` y el portfolio no cambian.
 - **Frontmatter**: nombre, email, teléfono, avatar y enlaces.
   - `phone` va solo al CV; nunca se publica en `profile.json`.
   - `links.linkedin` usa `https://info.abrah.dev`.
+  - `avatar` es una ruta relativa al repo (`assets/me.jpg`).
 - **`## CV`**: texto de OBJETIVO.
 - **`## Portfolio`**: texto del hero.
 - **`## README`**: párrafos del «About me» del README.
@@ -136,6 +137,13 @@ groups:
 - `skillicon`: slug de `skillicons.dev`, URL completa (si el icono no está en skillicons) o ruta a un `.svg` local.
 - Las URLs con `?` **deben ir entrecomilladas** en YAML.
 - Los `tags` de las entradas deben coincidir exactamente con un `name`.
+
+## Assets
+
+- `assets/me.jpg`: foto del CV.
+- `assets/avatar.png`: avatar de perfil.
+
+Si cambias la foto del CV, actualiza `avatar` en `content/profile.md`.
 
 ## Validación
 

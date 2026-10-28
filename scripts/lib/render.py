@@ -232,6 +232,8 @@ def cv_section(content: Content, kind: str) -> list:
 
 
 README_BADGES = {
+    "cv": ("CV", "Descargar", "2EA44F", None, "101010"),
+    "portfolio": ("Portfolio", "abrah.dev", "5B47ED", "vercel", "101010"),
     "github": ("GitHub", "Mi_perfil", "5B47ED", "github", "101010"),
     "linkedin": ("Linkedin", "Perfil_Profesional", "2867B2", "linkedin", "101010"),
     "tiktok": ("TikTok", "Tutoriales%20rapidos", "ff0050", "tiktok", "000000"),
@@ -239,12 +241,21 @@ README_BADGES = {
     "discord": ("Discord", "Comunidad", "5865F2", "discord", "101010"),
 }
 
+CV_RAW_URL = (
+    "https://raw.githubusercontent.com/abrahdev/abrahdev/main/"
+    "CV_Abraham_Escalona.pdf"
+)
+
 
 def badge(key: str, url: str) -> str:
     name, label, color, logo, label_color = README_BADGES[key]
+    params = "?style=for-the-badge"
+    if logo:
+        params += f"&logo={logo}&logoColor=white"
+    params += f"&labelColor={label_color}"
     return (
         f"[![{name}](https://img.shields.io/badge/{name}-{label}-{color}"
-        f"?style=for-the-badge&logo={logo}&logoColor=white&labelColor={label_color})]({url})"
+        f"{params})]({url})"
     )
 
 
@@ -327,8 +338,12 @@ def render_readme(content: Content) -> str:
     while lines and lines[-1] == "":
         lines.pop()
     lines.extend(["", "---", ""])
+    primary = [badge("cv", CV_RAW_URL)]
+    if links.get("portfolio"):
+        primary.append(badge("portfolio", links["portfolio"]))
     if links.get("github"):
-        lines.extend([badge("github", links["github"]), ""])
+        primary.append(badge("github", links["github"]))
+    lines.extend([" ".join(primary), ""])
 
     socials = [key for key in ("linkedin", "tiktok", "twitch") if links.get(key)]
     if socials:
@@ -358,7 +373,7 @@ def render_cv(content: Content) -> str:
 
     lines = [
         "<!-- Generado desde content/ por scripts/build.py. No editar a mano. -->",
-        f'<img src="{profile.get("avatar", "me.jpg")}" alt="{profile.get("display_name")}" '
+        f'<img src="{profile.get("avatar", "assets/me.jpg")}" alt="{profile.get("display_name")}" '
         'width="150" height="150" style="float: right; border-radius: 10%; '
         'width: 150px; height: 150px;" />',
         "",

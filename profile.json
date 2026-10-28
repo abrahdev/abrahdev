@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "01dd0f7",
+  "sourceCommit": "4f8a5ec",
   "profile": {
     "name": "Abraham Escalona Seco de Herrera",
     "displayName": "Abraham Escalona S.",
     "handle": "abrah",
     "headline": "Software Developer, Student",
     "email": "abraham@abrah.dev",
-    "avatar": "me.jpg",
+    "avatar": "assets/me.jpg",
     "links": {
       "portfolio": "https://abrah.dev",
       "github": "https://github.com/abrahdev",
